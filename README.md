@@ -22,4 +22,9 @@ THEN I find a concise, descriptive title
 # Mock-UP
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/96966964/175841243-95fdb774-ac5e-453e-aa14-da8104b662ec.png">
 
-Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
+Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+
+# How to use it
+Reference to https://jorgebesnierb.github.io/CodeRefactor/
+
+Clone: You can copy a local version of the repository, and use your prefered tool to load an html file.
